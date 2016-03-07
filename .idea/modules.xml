@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicatorDemo_AS.iml" filepath="$PROJECT_DIR$/ViewPagerIndicatorDemo_AS.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_indicator/library_indicator.iml" filepath="$PROJECT_DIR$/library_indicator/library_indicator.iml" />
     </modules>
   </component>
 </project>
